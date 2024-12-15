@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 1194617294519691024}
   - component: {fileID: 5767016966651404362}
   - component: {fileID: 9213528540728698216}
+  - component: {fileID: 6686803800748162615}
   m_Layer: 0
   m_Name: face
   m_TagString: Untagged
@@ -136,3 +137,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &6686803800748162615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4781863220305394956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd430ae7f9b775943a783898c405fd03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  face: {fileID: 2776069367398742816}
+  mousePointIndices: 010000000e0000004e00000024010000
+  pointerScale: 0.01
+  optionalPointerPrefab: {fileID: 0}

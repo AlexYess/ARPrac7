@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "E:\\Unity_Projects\\ARPrac7\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "E:\\Unity_Projects\\ARPrac7\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\GameActivity\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "E:\\Programs\\Unity\\6000.0.10f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Unity_Projects\\ARPrac7\\.utmp\\RelWithDebInfo\\1j4g664i\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "E:\\Programs\\Unity\\6000.0.10f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Unity_Projects\\ARPrac7\\.utmp\\RelWithDebInfo\\1j4g664i\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "game::@d02bb112ea9f9c2ed29f": {
+      "artifactName": "game",
+      "abi": "arm64-v8a",
+      "output": "E:\\Unity_Projects\\ARPrac7\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\RelWithDebInfo\\1j4g664i\\obj\\arm64-v8a\\libgame.so",
+      "runtimeFiles": []
+    }
+  }
+}
